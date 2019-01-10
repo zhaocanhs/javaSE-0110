@@ -9,4 +9,4 @@ Github
 3.创建文件.gitconfig 放在用户目录下
 
 创建项目，创建文件.gitinore ,把项目上传到github，
-z
+zsdaf
